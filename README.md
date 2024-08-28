@@ -27,4 +27,4 @@ Follow these steps to run the code:
 ```bash
 python3 suhas99_project2_project1.py
 ```
-2. The script uses the concepts of Canny Edge Detection, Hough Lines and Haris Corner Detector to compute and filter out paper edges and corners. It stores the video in form of a video `suhas99_project2.mp4`
+3. The script uses the concepts of Canny Edge Detection, Hough Lines and Haris Corner Detector to compute and filter out paper edges and corners. It stores the video in form of a video `suhas99_project2.mp4`
